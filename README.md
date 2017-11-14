@@ -19,6 +19,14 @@ To run app:
 ```sh
 $ python main.py
 ```
+To run unit test suite, install requirements:
+```sh
+$ pip install -r requirements.txt
+```
+Run tests:
+```sh
+$ nosetests -v
+```
 
 # Author
 Jose Bermudez
