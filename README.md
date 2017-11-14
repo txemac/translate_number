@@ -14,7 +14,12 @@ You can use the programming language or library that you want. Please upload the
 ## Bonus Points
 Use Python.
 
+# Run
+To run app:
+```sh
+$ python main.py
+```
+
 # Author
 Jose Bermudez
-
 https://github.com/txemac
